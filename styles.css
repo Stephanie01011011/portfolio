@@ -183,3 +183,66 @@ i:hover{
 
 
 }
+.stats{
+    background-color: #000000;
+}
+.stats__content{
+    background-color: #000000;
+}
+.stats__container{
+    background-color: #000000;
+}
+.stats__content-school{
+    
+    background-color: #000000;
+    text-align: left;
+    display: block;
+    width: 400px;
+    height: 150px;
+    padding-left: 50px;
+    color: #ffffff;
+
+
+
+}
+.stats__content-school h2{
+    font-size: 2rem;
+}
+
+.stats__content-free{
+    background-color: #000000;
+    text-align: left;
+    display: block;
+    width: 400px;
+    height: 150px;
+    margin-left: 600px;
+    color: #ffffff;
+    
+}
+.stats__content-free h2{
+    font-size: 2rem;
+}
+.stats__content-git{
+    background-color: #000000;
+    text-align: left;
+    display: block;
+    width: 400px;
+    height: 150px;
+    padding-left: 50px;
+    color: #ffffff;
+}
+.stats__content-git h2{
+    font-size: 2rem;
+}
+.footer{
+    background-color: #000000;
+    background-size: 100%;
+    
+}
+.footer p{
+    display: block;
+    text-align: center;
+    color: #865d9a;
+    height: 50px;
+    padding: 150px;
+}
